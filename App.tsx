@@ -6,8 +6,8 @@ function App() {
       <p>Ad Soyad: [Mehmet Erdem Abacı]</p>
       <p>Ogrenci No: [235541043]</p>
       <p>Hobi: [Okumak]</p>
+      <p>Bölüm Adı: [Yazılım Mühendisliği]</p>
     </div>
   )
 }
-
 export default App
