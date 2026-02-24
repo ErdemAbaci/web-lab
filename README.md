@@ -24,4 +24,4 @@
  ```
 
  ## Ekran Goruntusu
- ![alt text](image.png)
+ <img width="1911" height="856" alt="image" src="https://github.com/user-attachments/assets/5e6cad43-c19d-4c2e-8d73-ac53c4965909" />
