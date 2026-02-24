@@ -1,27 +1,5 @@
-# Web LAB-1- Hello Project
+WEB LAB 2 SEMANTIC PORTOFOLIO ODEVI
 
- ## Hakkinda
- Bu proje, Web Tasarimi ve Programlama dersi LAB-1 kapsaminda
- Vite + React + TypeScript kullanilarak olusturulmustur.
 
- ## Gelistirici
- **Ad Soyad:** Mehmet Erdem Abacı
- **Ogrenci No:** 235541043
-
- ## Kullanilan Teknolojiler
- React 18
- TypeScript
- Vite
-
- ## Kurulum
- ```bash
- npm install
- ```
-
- ## Calistirma
- ```bash
- npm run dev
- ```
-
- ## Ekran Goruntusu
- ![alt text](image.png)
+LIGHTHOUSE SONUC CIKTI:
+<img width="651" height="350" alt="image" src="https://github.com/user-attachments/assets/c0501414-42b1-4fc1-b328-8fcaf8549002" />
